@@ -1,3 +1,5 @@
+<div align=center>
+  
 ### Hi there 👋
 
 
@@ -6,6 +8,8 @@
 ### 🌱 I’m currently learning ...
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flollin0%2F&count_bg=%239258C9&title_bg=%23C99BFF&icon=swift.svg&icon_color=%23F7ECFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <!--
 **lollin0/lollin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
